@@ -23,7 +23,7 @@ This unified repository provides everything needed for intelligent automation an
 - **Granular Plugin Architecture**: 68 focused plugins optimized for minimal token usage
 - **Comprehensive Tooling**: 76 development tools including test generation, scaffolding, and security scanning
 - **100% Agent Coverage**: All plugins include specialized agents
-- **Agent Skills**: 110 specialized skills following for progressive disclosure and token efficiency
+- **Agent Skills**: 110 specialized skills for progressive disclosure and token efficiency
 - **Clear Organization**: 23 categories with 1-6 plugins each for easy discovery
 - **Efficient Design**: Average 3.4 components per plugin (follows Anthropic's 2-8 pattern)
 
